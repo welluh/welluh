@@ -1,16 +1,48 @@
-### Hi there 👋
+## Wellu Hietala
 
-<!--
-**welluh/welluh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**uimamaisteri, senior frontend / fullstack / lead developer, freelancer and accessibility enthusiast**
+wellu.hietala@gmail.com
 
-Here are some ideas to get you started:
+I've been working as a frontend developer nearly a decade.
+I started with small-scale projects written in Joomla, Wordpress, Typo3 and 
+good ol' HTML+CSS+JS as a freelance web designer / developer.
+Back in September 2013 I decided to make a career out of my side hustle.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+***
+
+
+Current Position
+-----
+
+#### **Lamia Oy** (Helsinki, Finland)
+##### **Frontend lead developer - 2015-Present**
+
+As a software developer at Lamia, I've worked with Node, Magento 1, Magento 2, 
+Wordpress, Drupal and various other frameworks, building conventional web 
+applications and microservices as well as fully headless progressive web 
+applications with Vue+Nuxt, Rest and Graphql. 
+
+Strengths:
+*  Headless / decoupled architecture
+*  PWA
+*  Design systems and component libraries
+*  Mentoring
+*  Accessibility
+*  Test-driven development
+
+
+***
+
+
+Currently working on
+-----
+
+My current side projects include: 
+* a fully customized Shopify storefront
+* Various headless small company websites with Storyblok
+* White label(able) component library
+* headless + serverless dashboard application
+
+
+***
