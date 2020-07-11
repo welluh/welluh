@@ -2,8 +2,6 @@
 
 **frontend / fullstack / lead developer, freelancer and accessibility enthusiast**
 
-wellu.hietala@gmail.com
-
 I've been working as a frontend developer nearly a decade.
 I started with small-scale projects with Joomla, Wordpress, Typo3 and 
 good ol' HTML+CSS+JS as a freelance web developer.
