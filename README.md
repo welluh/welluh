@@ -4,8 +4,8 @@
 wellu.hietala@gmail.com
 
 I've been working as a frontend developer nearly a decade.
-I started with small-scale projects written in Joomla, Wordpress, Typo3 and 
-good ol' HTML+CSS+JS as a freelance web designer / developer.
+I started with small-scale projects with Joomla, Wordpress, Typo3 and 
+good ol' HTML+CSS+JS as a freelance web developer.
 Back in September 2013 I decided to make a career out of my side hustle.
 
 
