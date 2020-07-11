@@ -1,6 +1,7 @@
 ## Wellu Hietala
 
-**uimamaisteri, senior frontend / fullstack / lead developer, freelancer and accessibility enthusiast**
+**frontend / fullstack / lead developer, freelancer and accessibility enthusiast**
+
 wellu.hietala@gmail.com
 
 I've been working as a frontend developer nearly a decade.
