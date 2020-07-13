@@ -1,6 +1,7 @@
 ## Wellu Hietala
 
-**frontend / fullstack / lead developer, freelancer and accessibility enthusiast**
+**agile, hyperautomation email template manager & resolver of promises 
+(aka a frontend developer, team lead, freelancer and accessibility buff)**
 
 I've been working as a frontend developer nearly a decade.
 I started with small-scale projects with Joomla, Wordpress, Typo3 and 
@@ -17,10 +18,10 @@ Current Position
 #### **Lamia Oy** (Helsinki, Finland)
 ##### **Frontend lead developer - 2015-Present**
 
-As a software developer at Lamia, I've worked with Node, Magento 1, Magento 2, 
-Wordpress, Drupal and various other frameworks, building conventional web 
+As a software developer at Lamia, I've worked with Node, Magento, Wordpress, 
+Drupal and various other frameworks, building conventional web 
 applications and microservices as well as fully headless progressive web 
-applications with Vue+Nuxt, Rest and Graphql. 
+applications with Vue+Nuxt, Rest and Graphql.
 
 Strengths:
 *  Headless / decoupled architecture
@@ -39,7 +40,7 @@ Currently working on
 
 My current side projects include: 
 * a fully customized Shopify storefront
-* Various headless small company websites with Storyblok
+* Various headless small company websites with Storyblok and Contentful
 * White label(able) component library
 * headless + serverless dashboard application
 
