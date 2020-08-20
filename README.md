@@ -38,7 +38,6 @@ Strengths:
 Currently working on
 -----
 
-My current side projects include: 
 * Magento
 * Shopify
 * Various headless web apps
