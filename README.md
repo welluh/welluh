@@ -18,10 +18,10 @@ Current Position
 #### **Lamia Oy** (Helsinki, Finland)
 ##### **Frontend lead developer - 2015-Present**
 
-As a software developer at Lamia, I've worked with Node, Magento, Wordpress, 
-Drupal and various other frameworks, building conventional web 
-applications and microservices as well as fully headless progressive web 
-applications with Vue+Nuxt, Rest and Graphql.
+I've been working with Node, Magento, Wordpress, Drupal and various 
+other frameworks. Building ecommerce stores, microservices and 
+conventional web apps as well as headless progressive web apps with 
+Vue+Nuxt, Rest and Graphql.
 
 Strengths:
 *  Headless / decoupled architecture
@@ -39,10 +39,9 @@ Currently working on
 -----
 
 My current side projects include: 
-* a fully customized Shopify storefront
-* Various headless small company websites with Storyblok and Contentful
-* White label(able) component library
-* headless + serverless dashboard application
+* Magento
+* Shopify
+* Various headless web apps
 
 
 ***
