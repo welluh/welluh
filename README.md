@@ -40,6 +40,8 @@ Currently working on
 
 * Magento
 * Shopify
+* Contentful
+* Storyblok
 * Various headless web apps
 
 
