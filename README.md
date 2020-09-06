@@ -16,7 +16,7 @@ Current Position
 #### **Lamia Oy** (Helsinki, Finland)
 ##### **Frontend lead developer - 2015-Present**
 
-I workg with Node, Magento, Wordpress, Drupal and various 
+I work with Node, Magento, Contentful, Wordpress, Drupal and various 
 other frameworks. Building ecommerce stores, microservices and 
 conventional web apps as well as decoupled, progressive, single 
 page web apps with Vue + Nuxt, Rest and Graphql.
