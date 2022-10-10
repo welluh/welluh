@@ -2,8 +2,7 @@
 
 **Senior UI/UX Developer**
 
-I'm a Senior UI/UX Developer from Finland,
-currently working my way up to senior full stack developer.
+I'm a Senior Fullstack Developer from Finland.
 
 During my years as a developer I've gained a vast knowledge of various programming languages,
 frameworks, infrastructure, UI/UX design and service design. I have been also consulting
@@ -14,7 +13,7 @@ in their journey to digital transformation.
 Strengths
 -----
 *  Headless / decoupled / microservice architectures
-*  Ecommerce
+*  E-commerce
 *  Content delivery platforms
 *  Design systems and UI kits
 *  Accessibility
