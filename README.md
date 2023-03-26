@@ -1,18 +1,15 @@
 ## Wellu Hietala
 
-**Senior UI/UX Developer**
+**Principal Consultant**
 
-I'm a Senior Fullstack Developer from Finland.
+Moikkuli! 
+I'm Wellu, a full-stack developer and accessibility specialist with a knack for UI/UX development, design systems, and rapid prototyping. With over a decade of experience across various industries, I've transitioned from a culinary career to hand crafting exceptional digital services.
 
-During my years as a developer I've gained a vast knowledge of various programming languages,
-frameworks, infrastructure, UI/UX design and service design. I have been also consulting
-on accessibility and conducting workshops and trainings as well as helping customers
-in their journey to digital transformation.
-
+I'm always eager to learn new skills and technologies, which is why I occasionally take on freelance projects to keep myself on my toes. When I'm not yelling at my own code (we've all been there, right?), I am mentoring other developers, helping them level up their skills and grow in their careers.
 
 Strengths
 -----
-*  Headless / decoupled / microservice architectures
+*  Composable / microservice architectures
 *  E-commerce
 *  Content delivery platforms
 *  Design systems and UI kits
@@ -30,6 +27,7 @@ Currently working on
 * TypeScript
 * Contentful
 * Storyblok
+* Prismic
 
 
 Languages and frameworks
@@ -50,7 +48,8 @@ Current Position
 -----
 
 #### **Houston Inc. Consulting** (Helsinki, Finland)
-##### **Senior Consultant - Sep 2021 - Present**
+##### **Principal Consultant - Mar 2023 - present**
+##### **Senior Consultant - Sep 2021 - Mar 2023**
 
 
 Previous Position
