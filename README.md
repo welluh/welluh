@@ -2,20 +2,18 @@
 
 **Principal Consultant**
 
-Moikkuli! 
-I'm Wellu, a full-stack developer and accessibility specialist with a knack for UI/UX development, design systems, and rapid prototyping. With over a decade of experience across various industries, I've transitioned from a culinary career to hand crafting exceptional digital services.
+Moikkuli!
 
-I'm always eager to learn new skills and technologies, which is why I occasionally take on freelance projects to keep myself on my toes. When I'm not yelling at my own code (we've all been there, right?), I am mentoring other developers, helping them level up their skills and grow in their careers.
+I'm Wellu, a full-stack developer and an accessibility specialist.
+
 
 Strengths
 -----
-*  Composable / microservice architectures
+*  Composable architecture
 *  E-commerce
 *  Content delivery platforms
 *  Design systems and UI kits
 *  Accessibility
-*  Mentoring
-*  Test-driven development
 
 
 Currently working on
@@ -27,7 +25,6 @@ Currently working on
 * TypeScript
 * Contentful
 * Storyblok
-* Prismic
 
 
 Languages and frameworks
